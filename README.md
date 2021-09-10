@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! 👋
+
+Olá, eu sou Kevin Fraga, tenho 30 anos :raising_hand_man:
+
+Sou programador Full-Stack em formação e dedicado aluno da Turma 9 de Web Desgin da [Tybe](https://www.betrybe.com/) :man_student:
+
+Estou aberto para trabalhar e sempre em busca de novas oportunidades :briefcase:
 
 <!--
 **KevinFraga/KevinFraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
