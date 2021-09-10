@@ -2,9 +2,9 @@
 
 Olá, eu sou Kevin Fraga, tenho 30 anos :raising_hand_man:
 
-Sou programador Full-Stack em formação e dedicado aluno da Turma 9 de Web Desgin da [Tybe](https://www.betrybe.com/) :man_student:
+Programador Full-Stack em formação e dedicado aluno da Turma 9 de Web Desgin da [Tybe](https://www.betrybe.com/) :man_student:
 
-Estou aberto para trabalhar e sempre em busca de novas oportunidades :briefcase:
+Aberto para trabalhar e sempre em busca de novos desafios :briefcase:
 
 Entre em contato! :grin::+1:
 
