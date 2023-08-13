@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Eu sou Kevin Fraga, tenho 31 anos :raising_hand_man:
+Eu sou Kevin Fraga, tenho 32 anos :raising_hand_man:
 
 Programador Full-Stack formado na Turma 9 de Web Development da [Tybe](https://www.betrybe.com/) :man_student:
 
